@@ -1,0 +1,11 @@
+[package]
+name = "sajon"
+version = "0.1.0"
+edition = "2021"
+authors = ["Shift"]
+description = "Simple binary data storing format"
+repository = "https://github.com/neo-sh/sajon"
+homepage = "https://github.com/neo-sh/sajon"
+license = "GPL-3.0"
+readme = "README.md"
+include = ["src/*", "Cargo.*", "README.md", "LICENSE"]
